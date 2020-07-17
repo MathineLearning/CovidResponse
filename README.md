@@ -1,4 +1,4 @@
-# Covid Response Description
+# Covid Stock Response Description
 Linear regression model that would explore which stock is most deterministic in relation to the S&P 500
 
 # Objective
